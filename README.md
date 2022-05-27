@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> My Codewars:</h2>
+
+[![codewars](https://www.codewars.com/users/ilya_09/badges/large)](https://www.codewars.com/users/ilya_09)
+
+<h2>Profile card:</h2>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acejkee&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Acejkee&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Acejkee&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Acejkee&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Acejkee&theme=solarized_dark)

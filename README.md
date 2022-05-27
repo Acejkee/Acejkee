@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> My Codewars:</h2>
+<h2>My Codewars:</h2>
 
 [![codewars](https://www.codewars.com/users/ilya_09/badges/large)](https://www.codewars.com/users/ilya_09)
+
+<h2>Profile Trophy:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Acejkee&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

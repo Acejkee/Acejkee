@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![codewars](https://www.codewars.com/users/ilya_09/badges/large)](https://www.codewars.com/users/ilya_09)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Acejkee)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h2>Profile card:</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acejkee&theme=solarized_dark)

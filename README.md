@@ -24,3 +24,9 @@
 
 ### To write
 [![Telegram](https://img.shields.io/badge/-telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Acejkee)
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Acejkee github stats](https://github-readme-stats.vercel.app/api?username=Acejkee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Acejkee Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Acejkee&layout=compact&count_private=true&theme=gruvbox)

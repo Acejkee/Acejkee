@@ -1,34 +1,23 @@
-### Hi there 👋
 
-<!--
-**Acejkee/Acejkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>My Codewars:</h2>
-
-[![codewars](https://www.codewars.com/users/ilya_09/badges/large)](https://www.codewars.com/users/ilya_09)
-
-<h2>Profile Trophy:</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Acejkee&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h2>Profile card:</h2>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acejkee&theme=solarized_dark)
+### Languages and Tools
+![Python](https://img.shields.io/badge/-Python-2f4f4f?style=for-the-badge&logo=python)
+![Sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=postgresql)
+![Html](https://img.shields.io/badge/-html-008b8b?style=for-the-badge&logo=html5)
+![Css](https://img.shields.io/badge/-css-57719b?style=for-the-badge&logo=c) <br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Sql](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D) 
+![Docker](https://img.shields.io/badge/-docker-042b7d?style=for-the-badge&logo=docker)<br>
+![Django](https://img.shields.io/badge/-django-048280?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-fastapi-e4ecfc?style=for-the-badge&logo=fastapi)
+<br>
+![GitHub](https://img.shields.io/badge/-github-1c0c13?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-gitlab-1c0c13?style=for-the-badge&logo=gitlab) <br>
+![Linux](https://img.shields.io/badge/-linux(ubuntu)-5b1a7e?style=for-the-badge&logo=linux) 
+![Windows](https://img.shields.io/badge/-Windows-04457d?style=for-the-badge&logo=windows) <br>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Acejkee&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Acejkee&theme=solarized_dark)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Acejkee&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Acejkee&theme=solarized_dark)
+### To write
+[![Telegram](https://img.shields.io/badge/-telegram-04597c?style=for-the-badge&logo=telegram)](https://t.me/Acejkee)
